@@ -60,6 +60,9 @@ a.left {
 }
 .left:hover, .right:hover {
 	color: #B2CCCC;
+	background-color: #5C8A8A;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 p.about {
 	font-family: 'Montserrat', sans-serif;
@@ -113,7 +116,8 @@ nav.topNav a {
 	font-family: 'Montserrat', sans-serif;
 }
 .contact:hover {
-	color: #B2CCCC;
+	color: #5C8A8A;
+	font-family: 'Poiret One', cursive;
 }
 div.section {
 	margin-top: 25px;
